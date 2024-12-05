@@ -2,6 +2,6 @@
 - cd backend
 - python server.py
 
-#### 启动前端
+### 启动前端
 - cd frontend
 - npm run dev
